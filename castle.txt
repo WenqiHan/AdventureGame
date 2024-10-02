@@ -1,2 +1,1 @@
-"welcome to the Adventure Game!"
-
+"You are in a old castle. The walls seem to move towards you as you pass"
